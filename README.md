@@ -4,7 +4,7 @@
 
 ## Проекты
 
-* [Проект 1. Игра: Угадай число]()
-* [Проект 2.   ](______)
+* [Проект 1. Игра: Угадай число](https://github.com/orgail/URFU/tree/master/project_1)
+* [Проект 2.   ](https://github.com/orgail/URFU/tree/master/project_2)
 * [Проект 3.   ](______)
 * [Проект 4.   ](______)
