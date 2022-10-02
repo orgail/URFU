@@ -2,7 +2,7 @@
 
 ## Оглавление
 
-* [1. Описине проекта](https://github.com/orgail/URFU/tree/master/project_2/README.md)
+* [1. Описание проекта](https://github.com/orgail/URFU/tree/master/project_2/README.md)
 * [2. Какой кейс мы решаем](https://github.com/orgail/URFU/tree/master/project_2/README.md)
 * [3. Краткая информация о данных](https://github.com/orgail/URFU/tree/master/project_2/README.md)
 * [4. Этапы работы над проектом](https://github.com/orgail/URFU/tree/master/project_2/README.md)
@@ -14,7 +14,7 @@
 
 Угадать заданное компьютером число за минимальное число попыток
 
-:arrou_up: [к оглавлению](https://github.com/orgail/URFU/tree/master/project_2/README.md#Оглавление)
+:arrou_up:[к оглавлению](https://github.com/orgail/URFU/tree/master/project_2/README.md#Оглавление)
 
 
 За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
