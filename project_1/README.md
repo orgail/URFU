@@ -13,7 +13,7 @@
 ### Описание проекта
 В проекте пишется алгоритм, которые отгадывает случайное число от 1 до 100 за как можно меньшее число попыток.
 
-:arrou_up: [к оглавлению](https://github.com/orgail/URFU/tree/master/project_3/README.md#Оглавление)
+[к оглавлению](https://github.com/orgail/URFU/tree/master/project_3/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
