@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705086298167
+current_stage: None
+description: null
+last_updated_timestamp: 1705086298167
+name: lr
+run_id: 57e12ee65f65466a9ba07b40aa4d8551
+run_link: null
+source: /home/denis/airflow/mlflow/2/57e12ee65f65466a9ba07b40aa4d8551/artifacts/lr
+status: READY
+status_message: null
+storage_location: /home/denis/airflow/mlflow/2/57e12ee65f65466a9ba07b40aa4d8551/artifacts/lr
+user_id: null
+version: 1
